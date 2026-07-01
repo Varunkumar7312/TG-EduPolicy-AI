@@ -14,7 +14,7 @@
 
 **Turns a 354-page government document into an interactive, AI-queryable experience — accessible to every citizen, teacher, student, and parent in Telangana.**
 
-[🚀 **Live Demo**](https://tg-edupolicy-ai-7cc7.onrender.com) · [📄 Policy Source](https://telangana.gov.in)
+[🚀 **Live Demo**](https://tg-edupolicy-ai-ocxd.onrender.com/) · [📄 Policy Source](https://tec.telangana.gov.in/TEC/PDFs/TGEducationPolicy2026.pdf)
 
 ---
 
