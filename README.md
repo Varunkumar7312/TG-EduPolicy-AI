@@ -276,7 +276,7 @@ B.Tech AI & Machine Learning — St. Martins Engineering College, Hyderabad
 CGPA: 8.22 · Class of 2026
 
 [![GitHub](https://img.shields.io/badge/GitHub-Varunkumar7312-181717?style=flat&logo=github)](https://github.com/Varunkumar7312)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-varun--kumar--e-0A66C2?style=flat&logo=linkedin)]([https://linkedin.com/in/varun-kumar-e](https://www.linkedin.com/in/varun-kumar-e-811a4a279/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-varun--kumar--e-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/varun-kumar-e-811a4a279/)
 [![Email](https://img.shields.io/badge/Email-varuneslavath96@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:varuneslavath96@gmail.com)
 
 ---
